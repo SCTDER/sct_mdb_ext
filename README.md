@@ -5,4 +5,4 @@ the sct memory datase is only support by c/c++/java/python by official release.
 
 here it provide the internal's protocol document between client and server.
 
-you can provide the other language's extention such as go c# javascript php matlab odbc php/pdo etc.
+you can provide the other language's extention such as go c# javascript matlab php matlab odbc php/pdo etc.
